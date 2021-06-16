@@ -1,0 +1,15 @@
+A. Al-Fuqaha, M. Guizani, M. Mohammadi, M. Aledhari and M. Ayyash, "Internet of Things: A Survey 
+on Enabling Technologies, Protocols, and Applications," in IEEE Communications Surveys & Tutorials, 
+vol. 17, no. 4, pp. 2347-2376, Fourthquarter 2015, doi: 10.1109/COMST.2015.2444095.
+
+A. Raoof, A. Matrawy and C. Lung, "Routing Attacks and Mitigation Methods for RPL-Based Internet of 
+Things," in IEEE Communications Surveys & Tutorials, vol. 21, no. 2, pp. 1582-1606, Secondquarter 
+2019, doi: 10.1109/COMST.2018.2885894.
+
+S. Murali and A. Jamalipour, "A Lightweight Intrusion Detection for Sybil Attack Under Mobile RPL in 
+the Internet of Things," in IEEE Internet of Things Journal, vol. 7, no. 1, pp. 379-388, Jan. 2020, 
+doi: 10.1109/JIOT.2019.2948149.
+
+B. Pavkovic, A. Duda, W. Hwang and F. Theoleyre, "Efficient topology construction for RPL over IEEE 
+802.15.4 in wireless sensor networks," in Ad Hoc Networks, vol. 15, pp. 25-38, April 2014, 
+doi: 10.1016/j.adhoc.2013.08.009.
